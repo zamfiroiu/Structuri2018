@@ -1,0 +1,4 @@
+The tank T-3485 has 60000.00 kiolgrams.
+The tank T-2199 has 50000.00 kiolgrams.
+The tank T-1111 has 40000.00 kiolgrams.
+The tank T-9009 has 30000.00 kiolgrams.

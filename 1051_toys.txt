@@ -1,0 +1,9 @@
+4
+Robot
+5
+Doll
+4
+Car
+6
+Lego
+2

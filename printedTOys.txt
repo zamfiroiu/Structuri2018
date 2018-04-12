@@ -1,0 +1,4 @@
+Toy Robot can be used from 5 years.
+Toy Doll can be used from 4 years.
+Toy Car can be used from 6 years.
+Toy Lego can be used from 2 years.
