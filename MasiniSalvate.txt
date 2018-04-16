@@ -1,0 +1,4 @@
+Masina Aston Martin are 2000 kilometri parcursi.
+Masina Opel are 4000 kilometri parcursi.
+Masina Ford are 3000 kilometri parcursi.
+Masina Chevrolet are 2500 kilometri parcursi.

@@ -1,0 +1,4 @@
+Examenul de la Structuri de date are 4 credite.
+Examenul de la Programare evolutiva are 4 credite.
+Examenul de la Java are 4 credite.
+Examenul de la Sport are 10 credite.

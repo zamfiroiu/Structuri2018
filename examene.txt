@@ -1,0 +1,5 @@
+4
+Structuri de date,4
+Programare evolutiva,4
+Java,4
+Sport,10
