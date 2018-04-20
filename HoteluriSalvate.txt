@@ -1,0 +1,4 @@
+hotelul Sheraton are 60 camere si disponibilitatea este D
+hotelul Ambasador are 40 camere si disponibilitatea este N
+hotelul Novotel are 50 camere si disponibilitatea este D
+hotelul Ring Grand are 80 camere si disponibilitatea este N

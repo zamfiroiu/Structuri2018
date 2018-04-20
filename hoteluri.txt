@@ -1,0 +1,5 @@
+4
+Sheraton,D,60
+Ambasador,N,40
+Novotel,D,50
+Ring Grand,N,80
