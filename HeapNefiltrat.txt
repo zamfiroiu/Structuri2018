@@ -1,0 +1,6 @@
+Apelul de la apelant are prioritatea 4
+Apelul de la apelant2 are prioritatea 6
+Apelul de la Popescu are prioritatea 3
+Apelul de la Ionescu are prioritatea 9
+Apelul de la Vasielscu are prioritatea 8
+Apelul de la Georgescu are prioritatea 2

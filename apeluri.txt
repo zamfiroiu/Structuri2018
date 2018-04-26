@@ -1,0 +1,7 @@
+6
+apelant,4
+apelant2,6
+Popescu,3
+Ionescu,9
+Vasielscu,8
+Georgescu,2
